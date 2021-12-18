@@ -16,7 +16,13 @@ public class App
 			}
 	    }
 	
-	
+	 public  void addData(String data)
+	    {
+	       // System.out.println( "data--------"+data );
+	       
+				System.out.println("add new method---");
+			
+	    }
 	
 	
 	
